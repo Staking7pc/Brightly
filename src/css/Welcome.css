@@ -1,0 +1,41 @@
+
+
+.welcome-title{
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+    font-size: 3rem;    
+    color: #334756;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.socials-logo{
+    height: 3rem;
+    width: 3rem;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 5rem;
+}
+
+.socials{
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+    opacity: 40%;
+}
+
+@media screen and (max-width: 412px) {
+
+    .socials{
+        padding-top: 10px;
+        align-items: center;
+        justify-content: center;
+        align-self: center;
+        text-align: center;
+        opacity: 60%;
+    }
+    
+  
+  }
